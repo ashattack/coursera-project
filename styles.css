@@ -1,0 +1,11 @@
+body{
+    background: gray;
+}
+h1 {
+    /** changing the font */
+    font-family: sans-serif;
+    /** making the font smaller */
+    font-size: 20pt;
+    /** adding an underline */
+    text-decoration: underline;
+}
